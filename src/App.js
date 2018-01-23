@@ -13,6 +13,8 @@ class App extends Component {
         </div>
         <Account name="Checking" />
         <div className="clear"></div>
+        <Account name="Savings" />
+        <div className="clear"></div>
       </div>
     );
   }
